@@ -1,0 +1,13 @@
+
+Name :zedek   Seat number : 23
+Duration in Queue : 13sec
+Individual Boarding Duration : 13sec
+
+Name :wwee   Seat number : 29
+Duration in Queue : 20sec
+Individual Boarding Duration : 7sec
+
+Maximum length of the queue attained : 2
+Maximum Waiting time : 13
+Minimum waiting time : 7
+Average waiting time : 10
